@@ -1,0 +1,242 @@
+Id,Scene Name,Character Name,type,Place,Movie,Date,Race,Gender,Weapon,Culture
+1,Prologue: One Ring to Rule Them All...,,TRUE,Mordor,The Fellowship of the Ring,,,,,
+2,Concerning Hobbits,,TRUE,Hobbiton,The Fellowship of the Ring,"T.A. 3001, 22 September",,,,
+3,The Shire ,,TRUE,Bag End,The Fellowship of the Ring,"T.A. 3001, 23 September",,,,
+4,Very Old Friends,,TRUE,Bag End,The Fellowship of the Ring,,,,,
+5,"Keep It Secret, Keep It Safe ",,TRUE,Minas Morgul,The Fellowship of the Ring,"T.A. 3018, 13 April",,,,
+6,The Account of Isildur,,TRUE,Minas Tirith,The Fellowship of the Ring,,,,,
+7,At the Green Dragon,,TRUE,Green Dragon,The Fellowship of the Ring,,,,,
+8,The Shadow of the Past ,,TRUE,Farmer Maggot's Field,The Fellowship of the Ring,"T.A. 3018, 25 September",,,,
+9,Saruman the White ,,TRUE,Isengard,The Fellowship of the Ring,"T.A. 3018, 10 July",,,,
+10,A Short Cut to Mushrooms ,,TRUE,Farmer Maggot's Field,The Fellowship of the Ring,,,,,
+11,Bucklebury Ferry ,,TRUE,Buckleberry Ferry,The Fellowship of the Ring,,,,,
+12,At the Sign of The Prancing Pony ,,TRUE,Prancing Pony,The Fellowship of the Ring,"T.A. 3018, 29 September",,,,
+13,The Nazgul ,,TRUE,Prancing Pony,The Fellowship of the Ring,,,,,
+14,The Midgewater Marshes,,TRUE,The Midgewater Marshes,The Fellowship of the Ring,,,,,
+15,The Spoiling of Isengard,,TRUE,Isengard,The Fellowship of the Ring,,,,,
+16,A Knife in the Dark ,,TRUE,Amon Sul,The Fellowship of the Ring,"T.A. 3018, 6 October",,,,
+17,The Caverns of Isengard ,,TRUE,Isengard,The Fellowship of the Ring,,,,,
+18,Flight to the Ford ,,TRUE,Ford of Bruinen,The Fellowship of the Ring,,,,,
+19,Rivendell ,,TRUE,Rivendell,The Fellowship of the Ring,"T.A. 3018, 24 October",,,,
+20,The Fate of the Ring,,TRUE,Mount Doom,The Fellowship of the Ring,,,,,
+21,The Sword that Was Broken,,TRUE,Rivendell,The Fellowship of the Ring,,,,,
+22,The Council of Elrond ,,TRUE,Rivendell,The Fellowship of the Ring,"T.A. 3018, 18 December",,,,
+23,Bilbo's Gifts,,TRUE,Rivendell,The Fellowship of the Ring,,,,,
+24,The Departure of The Fellowship,,TRUE,Rivendell,The Fellowship of the Ring,,,,,
+25,The Pass of Caradhras,,TRUE,Redhorn Pass,The Fellowship of the Ring,"T.A. 3019, 11 January",,,,
+26,Moria ,,TRUE,West-gate of Moria,The Fellowship of the Ring,"T.A. 3019, 13 January",,,,
+27,A Journey in the Dark ,,TRUE,Mines of Moria,The Fellowship of the Ring,,,,,
+28,Balin's Tomb ,,TRUE,Mines of Moria,The Fellowship of the Ring,,,,,
+29,The Bridge of Khazad-dum ,,TRUE,The Bridge of Khazad-dum ,The Fellowship of the Ring,,,,,
+30,Lothlorien ,,TRUE,Cerin Amroth,The Fellowship of the Ring,"T.A. 3019, 15 January",,,,
+31,Caras Galadhon ,,TRUE,Caras Galadhon ,The Fellowship of the Ring,,,,,
+32,The Mirror of Galadriel ,,TRUE,Caras Galadhon ,The Fellowship of the Ring,,,,,
+33,The Great River ,,TRUE,Argonath,The Fellowship of the Ring,"T.A. 3019, 26 February",,,,
+34,Parth Galen ,,TRUE,Parth Galen,The Fellowship of the Ring,"T.A. 3019, 26 February",,,,
+35,The Breaking of the Fellowship ,,TRUE,Parth Galen,The Fellowship of the Ring,"T.A. 3019, 26 February",,,,
+36,The Departure of Boromir ,,TRUE,Parth Galen,The Fellowship of the Ring,"T.A. 3019, 26 February",,,,
+37,The Road Goes Ever On... ,,TRUE,Parth Galen,The Fellowship of the Ring,"T.A. 3019, 26 February",,,,
+38,The Foundations of Stone,,TRUE,Moria,The Two Towers,"T.A. 3019, 25 January",,,,
+39,Elven Rope,,TRUE,Emyn Muil,The Two Towers,,,,,
+40,The Taming of Smeagol ,,TRUE,Emyn Muil,The Two Towers,,,,,
+41,The Uruk-hai ,,TRUE,East Emnet,The Two Towers,,,,,
+42,The Three Hunters,,TRUE,East Emnet,The Two Towers,,,,,
+43,The Burnings of the Westfold,,TRUE,Westfold,The Two Towers,,,,,
+44,Massacre at the Fords of Isen,,TRUE,Fords of Isen,The Two Towers,"T.A. 3019, 2 March",,,,
+45,The Banishment of Eomer,,TRUE,Edoras,The Two Towers,"T.A. 3019, 2 March",,,,
+46,On the Trail of the Uruk-hai,,TRUE,East Emnet,The Two Towers,"T.A. 3019, 2 March",,,,
+47,Night Camp at Fangorn,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 2 March",,,,
+48,The Riders of Rohan ,,TRUE,East Emnet,The Two Towers,"T.A. 3019, 2 March",,,,
+49,The Fate of Merry and Pippin,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 2 March",,,,
+50,Treebeard ,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 2 March",,,,
+51,The Passage of the Marshes ,,TRUE,Dead Marshes,The Two Towers,"T.A. 3019, 2 March",,,,
+52,The White Rider ,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 2 March",,,,
+53,The Songs of the Entwives,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 3 March",,,,
+54,The Black Gate is Closed ,,TRUE,Black Gates of Mordor,The Two Towers,"T.A. 3019, 3 March",,,,
+55,Ent Draft,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 3 March",,,,
+56,The King of the Golden Hall ,,TRUE,Golden Hall,The Two Towers,"T.A. 3019, 3 March",,,,
+57,The Funeral of Theodred,,TRUE,Golden Hall,The Two Towers,"T.A. 3019, 3 March",,,,
+58,Simbelmyne on the Burial Mounds,,TRUE,Edoras,The Two Towers,"T.A. 3019, 3 March",,,,
+59,The King's Decision,,TRUE,Golden Hall,The Two Towers,"T.A. 3019, 3 March",,,,
+60,Brego ,,TRUE,Edoras Stables,The Two Towers,"T.A. 3019, 3 March",,,,
+61,The Ring of Barahir,,TRUE,Isengard,The Two Towers,"T.A. 3019, 3 March",,,,
+62,A Daughter of Kings,,TRUE,Golden Hall,The Two Towers,"T.A. 3019, 3 March",,,,
+63,Exodus from Edoras,,TRUE,Northern Ithilien,The Two Towers,"T.A. 3019, 3 March",,,,
+64,The Forests of Ithilien,,TRUE,Northern Ithilien,The Two Towers,"T.A. 3019, 3 March",,,,
+65,Gollum and Smeagol,,TRUE,Northern Ithilien,The Two Towers,"T.A. 3019, 3 March",,,,
+66,Of Herbs and Stewed Rabbit ,,TRUE,Northern Ithilien,The Two Towers,"T.A. 3019, 3 March",,,,
+67,Dwarf Women,,TRUE,Westfold,The Two Towers,"T.A. 3019, 3 March",,,,
+68,One of the Dunedain,,TRUE,Edoras,The Two Towers,"T.A. 3019, 3 March",,,,
+69,The Evenstar,,TRUE,Rivendell,The Two Towers,"T.A. 3019, 3 March",,,,
+70,The Wolves of Isengard,,TRUE,Westfold,The Two Towers,"T.A. 3019, 3 March",,,,
+71,Helm's Deep ,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 3 March",,,,
+72,Isengard Unleashed,,TRUE,Isengard,The Two Towers,"T.A. 3019, 5 March",,,,
+73,The Grace of the Valar,,TRUE,Westfold,The Two Towers,"T.A. 3019, 5 March",,,,
+74,Arwen's Fate,,TRUE,Rivendell,The Two Towers,"T.A. 3019, 5 March",,,,
+75,The Story Foreseen from Lorien,,TRUE,Rivendell,The Two Towers,"T.A. 3019, 5 March",,,,
+76,The Window on the West ,,TRUE,Henneth Annûn,The Two Towers,"T.A. 3019, 5 March",,,,
+77,Sons of the Steward,,TRUE,Osgiliath,The Two Towers,"T.A. 3019, 5 March",,,,
+78,The Forbidden Pool ,,TRUE,Forbidden Pool,The Two Towers,"T.A. 3019, 5 March",,,,
+79,Aragorn's Return,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+80,Entmoot ,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 5 March",,,,
+81,The Glittering Caves,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+82,Where is the Horse and the Rider?,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+83,Don't Be Hasty Master Meriadoc!,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 5 March",,,,
+84,The Host of the Eldar,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+85,The Battle of the Hornburg,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+86,Old Entish,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 5 March",,,,
+87,The Breach of the Deeping Wall,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+88,The Entmoot Decides,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 5 March",,,,
+89,The Retreat of the Hornburg,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+90,Master Peregrin's Plan,,TRUE,Fangorn Forest,The Two Towers,"T.A. 3019, 5 March",,,,
+91,Osgiliath ,,TRUE,Osgiliath ,The Two Towers,"T.A. 3019, 5 March",,,,
+92,The Last March of the Ents,,TRUE,Isengard,The Two Towers,"T.A. 3019, 5 March",,,,
+93,The Nazgul Attack,,TRUE,Osgiliath ,The Two Towers,"T.A. 3019, 5 March",,,,
+94,Forth Eorlingas,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+95,The Flooding of Isengard,,TRUE,Isengard,The Two Towers,"T.A. 3019, 5 March",,,,
+96,The Tales That Really Mattered...,,TRUE,Osgiliath ,The Two Towers,"T.A. 3019, 5 March",,,,
+97,Fangorn Comes to Helm's Deep,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+98,The Final Tally,,TRUE,Isengard,The Two Towers,"T.A. 3019, 5 March",,,,
+99,Farewell to Faramir,,TRUE,Osgiliath ,The Two Towers,"T.A. 3019, 5 March",,,,
+100,The Battle for Middle-earth is About to Begin,,TRUE,Helm's Deep ,The Two Towers,"T.A. 3019, 5 March",,,,
+101,Gollum's Plan,,TRUE,Ephel Duath Foothills,The Two Towers,"T.A. 3019, 5 March",,,,
+102,The Finding of the Ring,,TRUE,Gladden Fields,The Return of the King,T.A. 2463,,,,
+103,Journey to the Cross-roads,,TRUE,Morgul Road,The Return of the King,"T.A. 3019, 9 March",,,,
+104,The Road to Isengard ,,TRUE,Isengard,The Return of the King,"T.A. 3019, 9 March",,,,
+105,The Voice of Saruman ,,TRUE,Isengard,The Return of the King,"T.A. 3019, 9 March",,,,
+106,Return to Edoras,,TRUE,Golden Hall,The Return of the King,"T.A. 3019, 9 March",,,,
+107,Gollum's Villainy,,TRUE,Morgul Road,The Return of the King,"T.A. 3019, 9 March",,,,
+108,Eowyn's Dream,,TRUE,Golden Hall,The Return of the King,"T.A. 3019, 9 March",,,,
+109,The Palantír ,,TRUE,Golden Hall,The Return of the King,"T.A. 3019, 9 March",,,,
+110,Arwen's Vision,,TRUE,Rivendell,The Return of the King,"T.A. 3019, 9 March",,,,
+111,The Reforging of Narsil,,TRUE,Rivendell,The Return of the King,"T.A. 3019, 9 March",,,,
+112,The Decline of Gondor,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 9 March",,,,
+113,Cross-roads of the Fallen King,,TRUE,Morgul Road,The Return of the King,"T.A. 3019, 9 March",,,,
+114,The Deep Breath Before the Plunge,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 10 March",,,,
+115,Minas Morgul ,,TRUE,Minas Morgul ,The Return of the King,"T.A. 3019, 10 March",,,,
+116,Sam's Warning,,TRUE,Minas Morgul ,The Return of the King,"T.A. 3019, 10 March",,,,
+117,Osgiliath Invaded,,TRUE,Osgiliath ,The Return of the King,"T.A. 3019, 10 March",,,,
+118,The Lighting of the Beacons,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 10 March",,,,
+119,Theoden's Decision,,TRUE,Golden Hall,The Return of the King,"T.A. 3019, 10 March",,,,
+120,The Fall of Osgiliath,,TRUE,Osgiliath ,The Return of the King,"T.A. 3019, 10 March",,,,
+121,The Wizard's Pupil,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 10 March",,,,
+122,The Stairs of Cirith Ungol ,,TRUE,Winding Stair,The Return of the King,"T.A. 3019, 10 March",,,,
+123,Courage Is the Best Defense,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 10 March",,,,
+124,Allegiance to Denethor,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 10 March",,,,
+125,The Parting of Sam and Frodo,,TRUE,Winding Stair,The Return of the King,"T.A. 3019, 10 March",,,,
+126,The Sacrifice of Faramir,,TRUE,Osgiliath ,The Return of the King,"T.A. 3019, 10 March",,,,
+127,Marshalling at Dunharrow,,TRUE,Dunharrow,The Return of the King,"T.A. 3019, 10 March",,,,
+128,Anduril - Flame of the West,,TRUE,Dunharrow,The Return of the King,"T.A. 3019, 10 March",,,,
+129,Aragorn Takes the Paths of the Dead,,TRUE,Dunharrow,The Return of the King,,,,,
+130,No More Despair,,TRUE,Dunharrow,The Return of the King,,,,,
+131,Dwimorberg - The Haunted Mountain,,TRUE,Dimholt,The Return of the King,,,,,
+132,The Muster of Rohan ,,TRUE,Dunharrow,The Return of the King,,,,,
+133,The Paths of the Dead,,TRUE,Dwimorberg,The Return of the King,,,,,
+134,The Siege of Gondor ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+135,The Corsairs of Umbar,,TRUE,Pelargir,The Return of the King,"T.A. 3019, 13 March",,,,
+136,Shelob's Lair ,,TRUE,Shelob's Lair,The Return of the King,"T.A. 3019, 12 March",,,,
+137,Merry's Simple Courage,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+138,Breaking the Gate of Gondor,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+139,The Choices of Master Samwise ,,TRUE,Shelob's Lair,The Return of the King,"T.A. 3019, 14 March",,,,
+140,Denethor's Madness,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+141,The Witch King's Hour,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+142,The Ride of the Rohirrim ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+143,The Pyre of Denethor ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+144,The Battle of the Pelennor Fields ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+145,A Far Green Country,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+146,The Nazgul and His Prey,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+147,The Black Ships,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+148,Shieldmaiden of Rohan,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+149,Victory at Minas Tirith,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+150,Oaths Fulfilled,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+151,The Houses of Healing ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+152,Pippin Looks After Merry,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 14 March",,,,
+153,The Tower of Cirith Ungol ,,TRUE,Cirith Ungol,The Return of the King,"T.A. 3019, 14 March",,,,
+154,The Last Debate ,,TRUE,Minas Tirith,The Return of the King,,,,,
+155,Aragorn Masters the Palantir,,TRUE,Minas Tirith,The Return of the King,,,,,
+156,The Captain and the White Lady,,TRUE,Minas Tirith,The Return of the King,,,,,
+157,In the Company of Orcs,,TRUE,Gorgoroth,The Return of the King,,,,,
+158,The Land of Shadow ,,TRUE,Gorgoroth,The Return of the King,,,,,
+159,The Mouth of Sauron ,,TRUE,Black Gates,The Return of the King,"T.A. 3019, 25 March",,,,
+160,The Black Gate Opens ,,TRUE,Black Gates,The Return of the King,"T.A. 3019, 25 March",,,,
+161,I Can't Carry It for You... but I Can Carry You.,,TRUE,Mount Doom,The Return of the King,"T.A. 3019, 25 March",,,,
+162,The Last Move,,TRUE,Black Gates,The Return of the King,"T.A. 3019, 25 March",,,,
+163,Mount Doom ,,TRUE,Mount Doom,The Return of the King,"T.A. 3019, 25 March",,,,
+164,The Eagles are Coming!,,TRUE,Black Gates,The Return of the King,"T.A. 3019, 25 March",,,,
+165,The End of All Things,,TRUE,Mount Doom,The Return of the King,"T.A. 3019, 25 March",,,,
+166,The Fellowship Reunited,,TRUE,Rivendell,The Return of the King,"T.A. 3019, 21 September",,,,
+167,The Return of the King ,,TRUE,Minas Tirith,The Return of the King,"T.A. 3019, 1 May",,,,
+168,Homeward Bound ,,TRUE,Hobbiton,The Return of the King,,,,,
+169,The Grey Havens ,,TRUE,Gray Havens,The Return of the King,"T.A. 3021, 29 September",,,,
+170,,Sauron,FALSE,,,,Maiar,M,"One Ring, Mace, Sword, Dark Sorcery, Powers of the Maiar","Maiar of Aule(formerly), Dark Servants of Morgoth"
+171,,Galadriel,FALSE,,,,Elven,F,"Elven Magic, Nenya","Noldor (House of Finarfin), Falmari(House of Olwe), Galadhrim"
+172,,Peregrin Took,FALSE,,,,Hobbit,M,"Barrow-blade, Noldorin dagger, Troll's bane",Shire-hobbits
+173,,Celeborn,FALSE,,,,Elven,M,,Sindar (Elves of Doriath) (Galadhrim)
+174,,Gil-Galad,FALSE,,,,Elven,M,"Aeglos, Narya, Vilya","Noldor (House of Fingolfin), Falmari (House of Olwe), Northern Sindar"
+175,,Bilbo Baggins,FALSE,,,,Hobbit,M,Sting,Shire-hobbits
+176,,Saruman,FALSE,,,,Istari,M,"Wizard Staff, Powers of the Maiar, Dagger, Dark sorcery",Wizards
+177,,Witch King of Angmar,FALSE,,,,Men\Ringwraith,M,"Sword, Morgul-blade, Mace, Dark Sorcery",Nazgul (Servants of Sauron)
+178,,Elendil,FALSE,,,,Men,M,,"Numenoreans (House of Elros), The Faithful, Dunedain"
+179,,Samwise Gamgee,FALSE,,,,Hobbit,M,Barrow-blade,Shire-hobbits
+180,,Boromir,FALSE,,,,Men,M,"Sword, Shield, Dagger","Men of Gondor (House of Hurin), Ancestor of the Dunedain"
+181,,Legolas,FALSE,,,,Elven,M,"Bow of the Galadhrim, Mirkwood Bow, Dagger",Sindar
+182,,Lurtz,FALSE,,,,Uruk-Hai,M,"Sword, Shield, Fists, Bow and arrows",Uruk-hai
+183,,Gandalf,FALSE,,,,Istari,M,"Glamdring, Narya, Wizard Staff","Istari (Wizards), Maia of Manwe and Varda"
+184,,Rosie Cotton,FALSE,,,,Hobbit,F,,Shire-hobbits
+185,,Meriadoc Brandybuck,FALSE,,,,Hobbit,M,"Barrow-blade, Noldorin dagger","Shire-hobbits, Bucklanders"
+186,,Aragorn,FALSE,,,,Men,M,Anduril,"Dunedain of the North, Dunedain (House of Telcontar), Men of Gondor"
+187,,Haldir,FALSE,,,,Elven,M,"Bow, sword","Nandor (Silvan Elves), Galadhrim"
+188,,Gimli,FALSE,,,,Dwarven,M,Battle Axes,Durin's Folk
+189,,Isildur,FALSE,,,,Men,M,"Narsil, Sword","Numenoreans, House of Telcontar"
+190,,Gollum,FALSE,,,,Hobbit,M,,Stoors (River Folk)
+191,,Arwen,FALSE,,,,Elven,F,Hadhafang,"Elves of Lindon, Elves of Rivendell, Men of Gondor"
+192,,Elrond,FALSE,,,,Elven,M,"Sword, Bow, Vilya, Hadhafang","Lindon (Exiles of Gondolin), Elves of Rivendell"
+193,,Frodo Baggins,FALSE,,,,Hobbit,M,Sting and Barrow-blade,Shire-hobbit
+194,,Madril,FALSE,,,,Men,M,Sword and Bow,Men of Gondor
+195,,Sharku,FALSE,,,,Orc,M,Orc Scimitar,Orcs of Isengard
+196,,Snaga,FALSE,,,,Orc,M,Orc Scimitar,"Snaga, Mordor Orcs"
+197,,Grima Wormtongue,FALSE,,,,Men,M,"Dagger, witchcraft",Rohirrim (Men of Rohan)
+198,,Gamling,FALSE,,,,Men,M,Orc Scimitar,Rohirrim (Men of Rohan)
+199,,Ugluk,FALSE,,,,Uruk-hai,M,"Scimitar, Whip",Uruk-hai of Isengard
+200,,Mauhur,FALSE,,,,Uruk-hai,M,"Scimitar, Knife",Uruk-hai of Isengard
+201,,Eowyn,FALSE,,,,Men,F,Sword,"Rohirrim (House of Eorl), Men of Gondor"
+202,,Eothain,FALSE,,,,Men,M,"Spear, Sword, Bow and arrows",Rohirrim
+203,,Haleth,FALSE,,,,Men,M,Sword,Rohirrim
+204,,Theoden,FALSE,,,,Men,M,Herugrim,Rohirrim
+205,,Theodred,FALSE,,,,Men,M,Sword,Rohirrim
+206,,Hama,FALSE,,,,Men,M,Sword,Rohirrim
+207,,Morwen,FALSE,,,,Men,F,,"Edain (House of Beor), Men of Dor-lomin"
+208,,Denethor,FALSE,,,,Men,M,Sword and knife,"Men of Gondor (House of Hurin), Ancestor of the Dunedain"
+209,,Bereg,FALSE,,,,Men,M,,Edain
+210,,Eomer,FALSE,,,,Men,M,"Guthwine, Spear, Bow and arrows",Rohirrim
+211,,Freda,FALSE,,,,Men,F,,Rohirrim
+212,,Grishnakh,FALSE,,,,Orc,M,"Scimitar, Knife",Orcs of Mordor
+213,,Faramir,FALSE,,,,Men,M,"Sword, nail-knife, bow","Men of Gondor (House of Hurin), Ancestor of the Dunedain"
+214,,Damrod,FALSE,,,,Men,M,"Sword, Bow and arrows","Dunedain, Men of Gondor"
+215,,Eldarion,FALSE,,,,Men,M,Anduril,Dunedain
+216,,Irolas,FALSE,,,,Men,M,Sword,Men of Gondor
+217,,Deagol,FALSE,,,,Hobbit,M,,"Stoor-hobbits of the Gladden Fields, River Folk"
+218,,Shagrat,FALSE,,,,Orc,M,"Scimitar, Knife",Black Uruks
+219,,Gorbag,FALSE,,,,Orc,M,"Scimitar, Whip, Knife, Spear",Morgul Orcs
+220,,Gothmog,FALSE,,,,Orc,M,"Fiery whip, Large black axe",Valaraukar
+221,,Mouth of Sauron,FALSE,,,,Men,M,"Dark sorcery, Sword",Black Numenorean
+222,,Grimbold,FALSE,,,,Men,M,"Sword, spear",Rohirrim
+223,,King of the Dead,FALSE,,,,Men\Undead,M,"Sword, sorcery","Men of the Mountains, later Dead Men of Dunharrow"
+224,,Cirdan,FALSE,,,,Elven,M,Narya,Sindar
+225,,Durin's Bane,FALSE,,,,Balrog,M,"Fiery whip, flaming sword","Maiar (Valaraukar, Balrogs of Morgoth)"
+226,,Treebeard,FALSE,,,,Ent,M,Bare hands feet and Legs,
+227,,Lugdush,FALSE,,,,Uruk-hai,M,"Scimitar, Shield",Uruk-hai of Isengard
+228,,Shelob,FALSE,,,,Ungoliant,F,"Venom, fangs, claws, webs",Spawn of Ungoliant
+229,,Khamul,FALSE,,,,Men\Ringwraith,M,"Sword, Morgul-blade, Fell beast","Nazgul (Ringwraiths), formerly Easterlings"
+230,,Gwaihir,FALSE,,,,Great Eagles,M,"Claws, beak",Eagles of Valinor
+231,,Landroval,FALSE,,,,Great Eagles,M,"Claws, beak",Eagles of Valinor
+232,,Meneldor,FALSE,,,,Great Eagles,M,,Eagles of Valinor
+233,,Fellbeast,FALSE,,,,,,,
+234,,Thranduil,FALSE,,,,Elven,M,Sword,Sindar (Elves of Doriath)(Elves of Mirkwood)
+235,,Glorfindel,FALSE,,,,Elven,M,"Sword, dirk","Noldor (Gondolindrim), Elves of Rivendell"
+236,,Galdor of the Havens,FALSE,,,,Elven,M,,"Sindar, Elves of Lindon"
+237,,Erestor,FALSE,,,,Elven,M,,Elves of Rivendell
+238,,Gloin,FALSE,,,,Dwarven,M,"Walking Axe, Throwing Axe, Hunting Knives, Lake-Town Sword & Axe","Durin's Folk, Dwarves of the Lonely Mountain"
+239,,Murgash,FALSE,,,,Uruk-hai,M,Scimitar,Black Uruks of Mordor
+240,,Imrahil,FALSE,,,,Men,M,"Sword, Lance","Dúnedain, Men of Gondor (House of Dol Amroth)"
+241,,Guritz,FALSE,,,,Orc,M,Scythe,Morgul Orcs
