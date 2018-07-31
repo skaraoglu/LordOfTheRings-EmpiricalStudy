@@ -1,6 +1,0 @@
-different type attribute
-infomap louvain (comm detection)
-maxclique (try to assign as an attribute)
-centrality metrics & comm structure (emphasize)
-same calc. for bipartite
-link communities for both (run centrality beforehand 12-4)
